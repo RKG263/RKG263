@@ -1,13 +1,10 @@
 <h1 align="center">Hi there, I'm Rahul Kumar! 👋</h1>
 <h3 align="center">🚀 Enthusiastic about solving complex problems through competitive programming and building scalable web applications using the MERN stack, with a focus on Next.js.</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rkg263&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/rahulkumar" target="_blank">
+  <a href="https://linkedin.com/in/rahul-kumar-865241248" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.codechef.com/users/adder_1" target="_blank">
@@ -23,16 +20,18 @@
 
 <h3 align="left">Skills:</h3>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" margin='10' height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cpp/cpp-original.svg" alt="C++" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+ 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
@@ -41,7 +40,13 @@
 
 <h3 align="left">Additional Skills:</h3>
 <p align="left">
-  Object-Oriented Programming (OOP), Data Structures & Algorithms, Database Management Systems (DBMS), Operating Systems (OS)
+  Object-Oriented Programming (OOP),
+  <br/>
+  Data Structures & Algorithms,
+   <br/>
+  Database Management Systems (DBMS),
+   <br/>
+  Operating Systems (OS)
 </p>
 
 <p align="center">
