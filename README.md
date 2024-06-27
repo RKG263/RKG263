@@ -13,7 +13,7 @@
   <a href="https://codeforces.com/profile/thisisrkrkrk" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-%23172E6C.svg?&style=flat&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
-  <a href="https://www.leetcode.com/kundan" target="_blank">
+  <a href="https://www.leetcode.com/kundan263" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=flat&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
 </p>
